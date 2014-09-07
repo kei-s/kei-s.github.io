@@ -1,0 +1,15 @@
+box: audionerd/ubuntu12.04-ruby2.0.0-nodejs0.10
+build:
+  steps:
+    - bundle-install
+    - hgen/bower-install
+    - script:
+        name: middleman build
+        code: bundle exec middleman build --verbose
+deploy:
+  steps:
+    - lukevivier/gh-pages:
+        token: $GIT_TOKEN
+        domain: kei.shiratsu.ch
+        basedir: build
+        repo: kei-s/kei-s.github.io
