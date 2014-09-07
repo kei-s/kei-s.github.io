@@ -11,7 +11,7 @@ Kei Shiratsuchi is a software engineer.
 - [<i class="fa fa-fw fa-facebook"></i> kei.shiratsuchi](https://www.facebook.com/kei.shiratsuchi)
 - [<i class="fa fa-fw fa-linkedin"></i> Kei Shiratsuchi](http://www.linkedin.com/in/keishiratsuchi)
 
-Other sites are listed on [http://tako3.com/http://github.com/kei-s](http://tako3.com/http://github.com/kei-s)
+Other sites are listed on [http://tako3.com/http://kei.shiratsu.ch](http://tako3.com/http://kei.shiratsu.ch)
 
 ## Codes, Products
 
