@@ -1,0 +1,18 @@
+{
+  "name": "kei.shiratsu.ch",
+  "version": "0.0.0",
+  "authors": [
+    "kei-s <kei.shiratsuchi@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.2.0"
+  }
+}

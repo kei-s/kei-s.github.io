@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+@import "font-awesome/scss/font-awesome";
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+
+@mixin container {
+  margin: 20px auto;
+  width: 800px;
+}
+
+$text-color: #333;
+
+html {
+  color: $text-color;
+  font-family: 'PT Sans', "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+body {
+  @include container;
+}
+
+a {
+  color: $text-color;
+}
+
+a:hover {
+  color: lighten($text-color, 15%);
+}
