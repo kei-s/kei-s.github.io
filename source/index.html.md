@@ -32,6 +32,8 @@ Other sites are listed on [http://tako3.com/http://kei.shiratsu.ch](http://tako3
 
 ## Tech talks
 
+- トークセッション「Rubyと俺達の生存戦略」 ([Movie](https://www.youtube.com/watch?v=YOwidw_RKd4&list=PLFhrObr2eydttZ1vfU1IrkSJZIhYcJ6TA)), [神奈川Ruby会議01](http://regional.rubykaigi.org/kana01/), 2015.1
+- おはよう Rails ([Movie](https://www.youtube.com/watch?v=opcZ4cHq-gg)), [RubyKaigi 2014](http://rubykaigi.org/2014), 2014.9
 - How I learned to stop worrying and use the Spree ([Slide](https://speakerdeck.com/kei_s/how-i-learned-to-stop-worrying-and-use-the-spree)), [Tokyo Rubyist Meetup eコマースとRails - Spreeの全て](http://trbmeetup.doorkeeper.jp/events/10739), 2014.5
 - Kuniaki.rb を祝して ([Slide](https://speakerdeck.com/kei_s/kuniaki-dot-rb-wozhu-site-number-kuniakirb)), [Kuniaki.rb(main):001:0>](http://kuniakirb.doorkeeper.jp/events/6616), 2013.10
 - How a small team built an e-commerce service w/ Ruby on Rails and Spree ([Slide](https://speakerdeck.com/kei_s/ruby-on-rails-and-spree), [Video](http://vimeo.com/51956189)), [Sapporo RubyKaigi 2012](http://sapporo.rubykaigi.org/2012/), 2012.9
